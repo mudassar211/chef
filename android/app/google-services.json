@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "453356499563",
+    "project_id": "chef-d33d6",
+    "storage_bucket": "chef-d33d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453356499563:android:44faed4f526f96191d772e",
+        "android_client_info": {
+          "package_name": "com.example.chefpractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453356499563-jshcq572ihurpssks3o2q5eqmvbjpg5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcbvoyktHiLxbY8fff_5-047TrYVVCDuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453356499563-jshcq572ihurpssks3o2q5eqmvbjpg5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
